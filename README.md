@@ -6,7 +6,6 @@
 3. Herbert Ansah Akrofi - 10923111
 
 
-project_report = '''
 ## Project Report: Predicting Words Influencing Sentiment in Tweet Text
 
 ### Introduction:
